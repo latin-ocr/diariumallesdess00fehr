@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diariumallesdess00fehr_0321.png"; bbox 0 0 2162 3589; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 94 1853 3408">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 94 1853 3408">
+     <span class='ocr_line' id='line_1_1' title="bbox 17 94 187 227; baseline 0 -95"><span class='ocrx_word' id='word_1_1' title='bbox 17 94 187 227; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 257 1853 3408; baseline 0 -3043"><span class='ocrx_word' id='word_1_2' title='bbox 0 257 1853 3408; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4 87 1837 307">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2 73 1837 307">
+     <span class='ocr_line' id='line_1_3' title="bbox 54 87 1837 227; baseline -0.002 -28.114"><span class='ocrx_word' id='word_1_3' title='bbox 54 87 1400 227; x_wconf 48' lang='lat' dir='ltr'>‘5223bbtffiurtff‘ss‘fffic‘smtzsxlzmm</span> <span class='ocrx_word' id='word_1_4' title='bbox 1399 127 1570 202; x_wconf 86' lang='lat' dir='ltr'>Vl</span> <span class='ocrx_word' id='word_1_5' title='bbox 1589 104 1734 210; x_wconf 47' lang='lat' dir='ltr'>egit</span> <span class='ocrx_word' id='word_1_6' title='bbox 1777 108 1837 160; x_wconf 58' lang='lat'><em>³</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 4 190 1689 307; baseline 0.007 -51"><span class='ocrx_word' id='word_1_7' title='bbox 4 244 8 256; x_wconf 80' lang='lat'>.</span> <span class='ocrx_word' id='word_1_8' title='bbox 115 199 262 305; x_wconf 50' lang='lat'>3⁴5:</span> <span class='ocrx_word' id='word_1_9' title='bbox 278 194 456 262; x_wconf 56' lang='lat' dir='ltr'>Azan</span> <span class='ocrx_word' id='word_1_10' title='bbox 463 190 897 281; x_wconf 60' lang='lat' dir='ltr'>tHoZeerffiffl</span> <span class='ocrx_word' id='word_1_11' title='bbox 916 204 1358 307; x_wconf 33' lang='lat' dir='ltr'>04²&amp;ng</span> <span class='ocrx_word' id='word_1_12' title='bbox 1389 222 1689 290; x_wconf 36' lang='grc' dir='ltr'>ξχῑζχχ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
